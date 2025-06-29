@@ -2,6 +2,16 @@
 
 FindJob is a modern mobile application built with React Native and Expo that helps users search, browse, and apply for job opportunities. The app provides a sleek, user-friendly interface to explore job listings from various industries, with features like job search, filtering by job type, detailed job views, and more.
 
+## Images
+
+<img src="./IMG_0976.PNG">
+
+<img src="./IMG_0977.PNG">
+
+<img src="./IMG_0978.PNG">
+
+
+
 
 ## Features
 
