@@ -1,4 +1,4 @@
-# FI## Images
+# FINDJOB Mobile application
 
 <p align="center">
   <img src="./IMG_0976.PNG" width="250" alt="Home Screen">
