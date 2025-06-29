@@ -54,6 +54,7 @@ Added fallbacks for missing or incomplete data
 ## API Integration
 
 The application uses the JSearch API from RapidAPI to fetch real job listings.
+Should put your own API RAPID KEY please!!!
 
 ## Future Enhancements
 - User would be able to like and to save a job offer
